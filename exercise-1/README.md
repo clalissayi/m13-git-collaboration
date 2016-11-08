@@ -28,3 +28,6 @@ To allow **Person 2** to replay their changes on top of the most recent version 
 - **Person 2** should now be able to push their (integrated) changes up to GitHub.
 
 This exercise is a simple example of using rebasing _without_ conflict. To practice encountering conflict, see [exercise-2](../exercise-2).
+
+
+making changes for exercise 1
